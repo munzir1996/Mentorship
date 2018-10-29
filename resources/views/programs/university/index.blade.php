@@ -22,30 +22,37 @@
               <div class="row">
                 <div class="col-md-8 blog-pull-right">
                   <div class="single-service">
-                    <img src="http://placehold.it/750x500" alt="">
-                    <h3 class="text-theme-colored line-bottom text-theme-colored">Accounting Technologies</h3>
-                    <h5><em>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo unde, <span class="text-theme-color-2">accounting technologies</span> corporis dolorum blanditiis ullam officia <span class="text-theme-color-2">our university </span>natus minima fugiat repellat! Corrupti voluptatibus aperiam voluptatem. Exercitationem, placeat, cupiditate.</em></h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore suscipit, inventore aliquid incidunt, quasi error! Natus esse rem eaque asperiores eligendi dicta quidem iure, excepturi doloremque eius neque autem sint error qui tenetur, modi provident aut, maiores laudantium reiciendis expedita. Eligendi</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore voluptatem officiis quod animi possimus a, iure nam sunt quas aperiam non recusandae reprehenderit, nesciunt cumque pariatur totam repellendus delectus? Maxime quasi earum nobis, dicta, aliquam facere reiciendis, delectus voluptas, ea assumenda blanditiis placeat dignissimos quas iusto repellat cumque.</p>
-
+                    <img src="{{asset('images/mentorship-logo.jpg')}}" alt="">
+                    <h3 class="text-theme-colored line-bottom text-theme-colored">Sudan Mentoring Center SMC</h3>
+                    <p>المركز السوداني الإرشادي هو أول مركز سوداني مُختص بمجال الإرشاد. تم تأسيس المركز كإمتداد لمبادرة المكتبة البشرية في العام 2018 بتاريخ الثاني من أكتوبر. حيث تمثلت الرؤية في تأسيس مركز رائد في مجال الإرشاد ويتضمن الإرشاد في المرحلة الجامعية - الإرشاد في المرحلة الثانوية - إرشاد الطلاب في مرحلة الأساس- إرشاد طلاب الدبلومات المختلفة - إرشاد المهنيين - إرشاد طلاب العلوم الصحية والصحة النفسية وغيرها الكثير.</p>
+                    <h3 class="text-theme-colored line-bottom text-theme-colored">يعتمد المركز طرق الإرشاد المختلفة لتأدية دوره على أكمل وجه وهي :</h3>
+                    <ol>
+                        <li>1. الإرشاد الفردي أو 1-1 mentoring</li>
+                        <li>2. الإرشادي الجماعي أو النوادي الإرشادية  club mentoring</li>
+                        <li>3. غرف النقاشات المختلفة.</li>
+                        <li>4. ألعاب محاكاة الواقع.</li>
+                        <li>5. المحاضرات والدورات التدريبية المختلفة.</li>
+                        <li>6. أسلوب العمل الميداني.</li>
+                        <li>7. أسلوب العمل المؤسسي والنقابي.</li>
+                        <li>8. الإرشادي التخصصي  career mentoring . وغيرها.</li>
+                    </ol>
+                    <h3 class="text-theme-colored line-bottom text-theme-colored">أهداف المركز:</h3>
+                    <ol>
+                        <li>‏  ‏- مشاركة التجارب والخبرات من أجل الاستفادة القصوى من تجارب النجاح و الفشل .‏</li>
+                        <li>‏  ‏- تطوير المجتمع و تشجيع الحوار وبناء العلاقات وتعزيزها والربط المستمر بين الاجيال والطبقات ‏المختلفة.‏</li>
+                        <li>‏  ‏- متابعة القضايا التي تهم الشباب والمجتمعات ومناقشتها بصورة مستمرة .‏</li>
+                        <li>‏- مساعدة الشباب في ترتيب الأفكار والأهداف ورسم مسارات حياتهم ‏</li>
+                        <li> ‏- تجهيز الأشخاص لمواجهة مشاكل الحياة المختلفة .‏</li>
+                        <li>‏  ‏- تكوين مجتمع مشارك للمعرفة ومتخصص في عدة مجالات .</li>
+                        <li>‏  ‏- إعداد مرشدين للجامعات المختلفة و نشر مفهوم الارشاد والتوجيه ونقل الخبرات‏</li>
+                    </ol>
                   </div>
                 </div>
                 <div class="col-sm-12 col-md-4">
                   <div class="sidebar sidebar-left mt-sm-30 ml-40">
                     <div class="widget">
-                      <h4 class="widget-title line-bottom">Quick <span class="text-theme-color-2">Contact</span></h4>
-                      <form id="quick_contact_form_sidebar" name="footer_quick_contact_form" class="quick-contact-form" action="includes/quickcontact.php" method="post" novalidate="novalidate">
-                        <div class="form-group">
-                          <input name="form_email" class="form-control" type="text" required="" placeholder="Enter Email" aria-required="true">
-                        </div>
-                        <div class="form-group">
-                          <textarea name="form_message" class="form-control" required="" placeholder="Enter Message" rows="3" aria-required="true"></textarea>
-                        </div>
-                        <div class="form-group">
-                          <input name="form_botcheck" class="form-control" type="hidden" value="">
-                          <button type="submit" class="btn btn-theme-colored btn-flat btn-xs btn-quick-contact text-white pt-5 pb-5" data-loading-text="Please wait...">Send Message</button>
-                        </div>
-                      </form>
+                      <h4 class="widget-title line-bottom">رابط التسجيل</h4>
+                      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfoFao3Ev4rW8NGTsFBWasP8OiXjOuM_SWHjQCKWOyT0MJWVA/viewform">اضغط هنا للتسجيل.</a>
                     </div>
                   </div>
                 </div>

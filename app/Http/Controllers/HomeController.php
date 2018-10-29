@@ -10,6 +10,10 @@ class HomeController extends Controller
         return view('home');
     }
 
+    public function homeMore(){
+        return view('more');
+    }
+
     public function aboutusIndex(){
         return view('aboutus');
     }

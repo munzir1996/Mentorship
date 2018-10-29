@@ -9,9 +9,7 @@
 
                     <div class="widget no-border m-0 mr-15 pull-right flip sm-pull-none sm-text-center">
                         <ul class="styled-icons icon-circled icon-sm pull-right flip sm-pull-none sm-text-center mt-sm-15">
-                            <li><a href="#"><i class="fa fa-facebook text-white"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter text-white"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram text-white"></i></a></li>
+                            <li><a href="https://web.facebook.com/University-Mentoring-Program-1939303926188347/"><i class="fa fa-facebook text-white"></i></a></li>
                         </ul>
                     </div>
 
